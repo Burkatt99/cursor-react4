@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+.inform {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+h1 {
+  color: #006600;
+  font-size: 60px;
+  font-family: "Dancing Script", cursive;
+  padding-bottom: 50px;
+}
+.miniInf {
+  width: 17%;
+  height: auto;
+  border: 1px solid #0d3300;
+  border-radius: 12px;
+  padding: 10px;
+  background-color: rgba(245, 245, 245, 0.288);
+}
+.miniInf p {
+  font-family: "Pacifico", cursive;
+  color: #0d3300;
+  font-size: 20px;
+}

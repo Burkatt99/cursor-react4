@@ -1,3 +1,8 @@
+body {
+  background-image: url("./images/fog.jpg");
+  background-repeat: round;
+  background-size: 100%;
+}
 .App {
   text-align: center;
 }

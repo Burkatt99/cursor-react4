@@ -1,0 +1,39 @@
+.messenger {
+  display: flex;
+}
+.mesage {
+  width: 85%;
+  margin-top: 5%;
+  margin-right: 25px;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.04);
+  padding: 20px;
+  border-radius: 12px;
+}
+.mesage img {
+  width: 15%;
+  height: auto;
+  border-radius: 100%;
+}
+.your,
+.me {
+  width: 100%;
+  display: flex;
+}
+.me {
+  margin-left: 230px;
+}
+.your p,
+.me p {
+  width: 50%;
+  height: auto;
+  margin: 20px 10px;
+  border: 1px solid #003300;
+  background-color: rgba(245, 245, 245, 0.432);
+  text-align: center;
+  padding-top: 15px;
+  border-radius: 32px;
+  font-size: 25px;
+  color: #003300;
+  font-family: "Dancing Script", cursive;
+}
