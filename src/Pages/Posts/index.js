@@ -1,11 +1,11 @@
 import React from "react";
 import Post from "../../Components/post";
 import "../../Components/post/main.css";
-import author from "../../Components/post/images/author.jpg";
-import imagePost from "../../Components/post/images/po.png";
-import imageDog from "../../Components/post/images/dog.png";
-import books from "../../Components/post/images/books.jpg";
-import hobby from "../../Components/post/images/pazzle.jpg";
+import author from "../../assets/images/author-min.jpg";
+import imagePost from "../../assets/images/po.png";
+import imageDog from "../../assets/images/dog.png";
+import books from "../../assets/images/books-min.jpg";
+import hobby from "../../assets/images/pazzle-min.jpg";
 import "./style.css";
 
 function Posts() {

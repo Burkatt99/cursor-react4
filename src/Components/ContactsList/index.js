@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import iconPhone from "./images/phone-call.png";
-import male from "./images/male.png";
-import female from "./images/female.png";
+import iconPhone from "../../assets/images/phone-call.png";
+import male from "../../assets/images/male.png";
+import female from "../../assets/images/female.png";
 
 class ContactsList extends Component {
   render() {
@@ -21,7 +21,7 @@ class ContactsList extends Component {
             <div className="inf">
               <span id="name">
                 {el.firstName}{" "}
-                <Link className="link" to="/contacts/${id}">
+                <Link className="link" to={`/contacts/${el.id}`}>
                   {el.lastName}
                 </Link>
               </span>

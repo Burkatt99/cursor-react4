@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import like from "./images/like.png";
-import comment from "./images/comment.png";
-import repost from "./images/repost.png";
-import save from "./images/save.png";
+import like from "../../assets/images/like.png";
+import comment from "../../assets/images/comment.png";
+import repost from "../../assets/images/repost.png";
+import save from "../../assets/images/save.png";
 import "./main.css";
 
 function Post(props) {

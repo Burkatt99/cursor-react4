@@ -1,19 +1,19 @@
 import React from "react";
-import photo_one from "./images/1.jpg";
-import photo_two from "./images/2.jpg";
-import photo_three from "./images/3.jpg";
-import photo_four from "./images/4.jpg";
-import photo_five from "./images/5.jpg";
-import photo_six from "./images/6.jpg";
-import photo_seven from "./images/7.jpg";
-import photo_eight from "./images/8.jpg";
-import photo_nine from "./images/9.jpg";
-import photo_ten from "./images/10.jpg";
-import photo_eleven from "./images/11.jpg";
-import photo_twelve from "./images/12.jpg";
-import photo_thirteen from "./images/13.jpg";
-import photo_fourteen from "./images/14.jpg";
-import photo_fifteen from "./images/15.jpg";
+import photo_one from "../../assets/images/1-min.jpg";
+import photo_two from "../../assets/images/2-min.jpg";
+import photo_three from "../../assets/images/3-min.jpg";
+import photo_four from "../../assets/images/4-min.jpg";
+import photo_five from "../../assets/images/5-min.jpg";
+import photo_six from "../../assets/images/6-min.jpg";
+import photo_seven from "../../assets/images/7-min.jpg";
+import photo_eight from "../../assets/images/8-min.jpg";
+import photo_nine from "../../assets/images/9-min.jpg";
+import photo_ten from "../../assets/images/10-min.jpg";
+import photo_eleven from "../../assets/images/11-min.jpg";
+import photo_twelve from "../../assets/images/12-min.jpg";
+import photo_thirteen from "../../assets/images/13-min.jpg";
+import photo_fourteen from "../../assets/images/14-min.jpg";
+import photo_fifteen from "../../assets/images/15-min.jpg";
 
 import "./style.css";
 

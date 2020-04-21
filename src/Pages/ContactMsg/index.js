@@ -2,8 +2,8 @@ import React from "react";
 import ContactBook from "../../Components/ContactBook";
 import "../../Components/ContactsList/style.css";
 import "./style.css";
-import man from "../../Components/ContactsList/images/man.jpg";
-import me from "../../Components/post/images/author.jpg";
+import man from "../../assets/images/man-min.jpg";
+import me from "../../assets/images/author-min.jpg";
 
 export default function ContactMsg(props) {
   return (
